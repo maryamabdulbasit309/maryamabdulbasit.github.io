@@ -1,6 +1,6 @@
 ---
 title: "From Programming Fundamentals to My Second Semester"
-date: 2026-06-25
+date: 2026-06-24
 categories: [Semester Journey]
 tags: [programming fundamentals, second semester, computer engineering, UET]
 ---
